@@ -1,0 +1,20 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Placeholder shown until .github/workflows/metrics.yml completes its first run -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0f1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" rx="10" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="118" rx="9" fill="none" stroke="#1c2740" stroke-width="1"/>
+  <circle cx="60" cy="60" r="10" fill="#00e5ff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="95" y="55" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">
+    Live metrics card generating…
+  </text>
+  <text x="95" y="80" fill="#8a93a6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    Runs via .github/workflows/metrics.yml — replaces this file after its first successful run.
+  </text>
+</svg>

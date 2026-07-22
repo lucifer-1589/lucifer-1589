@@ -190,18 +190,17 @@ More projects live on my [pinned repositories](https://github.com/lucifer-1589?t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer-1589&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=8a5cf6&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-1589&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" width="35%" alt="Top Languages"/>
+<img src="./assets/github-metrics.svg" width="100%" alt="GitHub Stats & Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=lucifer-1589&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF5C8A&currStreakLabel=00E5FF" width="70%" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer-1589&theme=react-dark&hide_border=true&bg_color=0D1117&color=00e5ff&line=8a5cf6&point=ff5c8a" width="90%" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer-1589&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=lucifer-1589&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies"/>
 
 </div>
 
-<sub>All widgets above pull live data from `lucifer-1589` via public read-only APIs — no hardcoded numbers. See <a href="./MAINTENANCE.md">MAINTENANCE.md</a> for how to re-theme or replace them.</sub>
+<sub>Streak, Activity Graph, and Trophies pull live data via public read-only APIs. The Stats/Languages card is self-hosted and auto-refreshes daily via <code>.github/workflows/metrics.yml</code> — see <a href="./MAINTENANCE.md">MAINTENANCE.md</a> for the one-time setup step it needs, and for how to re-theme any of these.</sub>
 
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
