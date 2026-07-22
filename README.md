@@ -139,13 +139,13 @@ What I care about, in order:
 
 ```mermaid
 flowchart LR
-    A[Endpoints / Network / Cloud Logs] --> B[Ingestion Layer]
-    B --> C[Detection Engine\n(rules + ML scoring)]
-    C --> D{Threat Verdict}
-    D -->|Benign| E[Log Store]
-    D -->|Suspicious| F[Alerting]
-    D -->|Malicious| G[Automated Response\n(isolate / block / notify)]
-    F --> H[Analyst Dashboard]
+    A["Endpoints / Network / Cloud Logs"] --> B["Ingestion Layer"]
+    B --> C["Detection Engine<br/>rules + ML scoring"]
+    C --> D{"Threat Verdict"}
+    D -->|Benign| E["Log Store"]
+    D -->|Suspicious| F["Alerting"]
+    D -->|Malicious| G["Automated Response<br/>isolate / block / notify"]
+    F --> H["Analyst Dashboard"]
     G --> H
 ```
 
