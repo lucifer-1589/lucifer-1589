@@ -155,23 +155,25 @@ flowchart LR
 
 ---
 
-### 🛒 Smart Retail System
-**Intelligent Point-of-Sale & Inventory Management Solution**
+### 📸 ClashCam
+**Flutter Social Media App for Video Challenges & Real-Time Collaboration**
 
 | | |
 |---|---|
-| **Description** | A POS and inventory management system for retail operations — sales processing, stock tracking, and reporting in one place. |
-| **Tech Stack** | `[Add: e.g. React, Node.js, MySQL]` |
-| **Repository** | `[Add repo link]` |
-| **Live Demo** | `[Add demo link, if deployed]` |
-| **Documentation** | `[Add docs link]` |
+| **Description** | A cross-platform social app centered on video creation and sharing — users create and join challenges, collaborate in real time, and chat over live audio. |
+| **Tech Stack** | Flutter · Dart · Riverpod · Firebase (Auth, Firestore, Storage, Cloud Functions) · Cloudinary · FFmpeg Kit |
+| **Repository** | [github.com/lucifer-1589/ClashCam](https://github.com/lucifer-1589/ClashCam) |
+| **Live Demo** | `[Add demo link, if published to app stores/web]` |
+| **Documentation** | [Project README](https://github.com/lucifer-1589/ClashCam#readme) |
 | **Status** | 🚧 In Development |
-| **Stars** | `[Add once public: ![GitHub Repo stars](https://img.shields.io/github/stars/lucifer-1589/REPO_NAME?style=social)]` |
+| **Stars** | ![GitHub Repo stars](https://img.shields.io/github/stars/lucifer-1589/ClashCam?style=social) |
 
 **Key Features**
-- `[Add feature — e.g. real-time inventory sync]`
-- `[Add feature — e.g. sales analytics dashboard]`
-- `[Add feature — e.g. multi-till / multi-branch support]`
+- Video creation & sharing
+- Challenge system with trending/discovery
+- Real-time collaboration and live audio chat
+- AI-powered video templates
+- Cross-platform: Android, iOS, Web, Windows, macOS, Linux
 
 **Roadmap**
 - `[Add next milestone]`
